@@ -7,6 +7,7 @@ function fn() {
     }
 
 }
+
 var f = fn();
 console.log(f(5));
 console.log(fn()(5));
